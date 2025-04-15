@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.app { padding: 20px; }
+.controls { margin-bottom: 20px; }
+.output { display: flex; gap: 20px; }
+.assembly { background: #f8f9fa; padding: 15px; }

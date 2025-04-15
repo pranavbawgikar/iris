@@ -1,0 +1,32 @@
+{
+    "type": "Program",
+    "body": [
+        {
+            "type": "Assignment",
+            "target": {
+                "type": "Variable",
+                "name": "a"
+            },
+            "value": {
+                "type": "BinaryOp",
+                "op": "+",
+                "left": {
+                    "type": "Constant",
+                    "val": 5
+                },
+                "right": {
+                    "type": "BinaryOp",
+                    "op": "*",
+                    "left": {
+                        "type": "Variable",
+                        "name": "b"
+                    },
+                    "right": {
+                        "type": "Constant",
+                        "val": 2
+                    }
+                }
+            }
+        }
+    ]
+}
