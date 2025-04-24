@@ -1,7 +1,12 @@
-# Getting Started with Create React App
-
+# intermediate representation instructions synthesizer
+### sequence diagram
+this diagram shows the runtime flow starting from user interaction in the frontend to the final display of optimized assembly and visualization.
 ![Untitled-2024-04-07-1231](https://github.com/user-attachments/assets/6d8aa355-c508-4cea-9ae5-416da1be065a)
-
+<br />
+### service-level architecture diagram
+this diagram gives a high-level view of the service-level architecture showing the major modules and how they interact.
+<br /><br />
+![Untitled-2025-04-21-1107](https://github.com/user-attachments/assets/8f151fe5-7913-4967-931e-9de71382b873)
 
 
 ## Available Scripts
